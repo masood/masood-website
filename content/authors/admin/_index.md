@@ -1,75 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: University of Illinois at Chicago
+    url: https://www.uic.edu/
+superuser: true
+authors:
+  - admin
+title: Mir Masood Ali
+role: PhD student, University of Illinois at Chicago
+avatar_filename: masood.png
+bio: "I conduct research on security, privacy, and social choice in Internet
+  based systems. "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Security
+  - Privacy
+  - Social Choice
+social:
+  - icon: envelope
+    icon_pack: ai
+    link: mali92@uic.edu
+  - link: https://github.com/masood/
+    icon_pack: ai
+    icon: github
+  - link: https://twitter.com/__masood__/
+    icon_pack: ai
+    icon: twitter
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: MSc in Computer Science
+      institution: Dalhousie University
+      year: 2019
+    - course: BEng in Computer Science and Engineering
+      institution: Visvesvaraya Technological University
+      year: 2017
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - ""
 ---
+I am a PhD student associated with the Department of Computer Science at the University of Illinois at Chicago, where I'm advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/). I conduct research on security and privacy in internet based systems. I have a specific focus on the social aspects of usability and trust in online services.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I completed my MSc in Computer Science from Dalhousie University in Aug 2019, where I was supervised by [Dr. Srinivas Sampalli](https://web.cs.dal.ca/~srini).
