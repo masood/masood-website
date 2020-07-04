@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "News"
 subtitle = ""
 
 [content]
@@ -75,26 +75,23 @@ subtitle = ""
  css_class = ""
 +++
 
-## Department of National Defence, Canada
-**IDEaS**
-**Aug 2019 - Dec 2019**
-  
-  * The project falls under the umbrella - "Understanding Cyber Intent".
-  * A Context-Aware and Machine Learning Framework will be presented to Predict, Detect and Differentiate Cyber-Attacks.
-  * The Framework will then be validated on a testbed with simulated attacks.
+## 2020-May-15
+  Starting work as an RA at [EVL](https://www.evl.uic.edu/). I'll be working on their composable infrastructure with [Luc Renambot](https://cs.uic.edu/profiles/luc-renambot/) and [Lance Long](https://cs.uic.edu/profiles/lance-long/).
 
-## Cartoon Conrad 
-**NSBI Voucher Grant**
-**July 2019 - Aug 2019**
-  
-  * Presented a survey of commercial CGM API's.
-  * Built a prototype of a persuasive game to manage juvenile diabetes.
-  * Presented game variable translations into a Habitica-style interface.
+## 2020-Jan-13
+  I'll be TAing for Program Design II during Spring 2020. The course will be instructed by [Dale Reed](https://sites.google.com/site/dalereed/) and [Sean Deitz](https://cs.uic.edu/profiles/deitz-sean/). 
 
-## Spritely Technologies Inc. 
-**NSBI Voucher Grant**
-**Nov 2018 - Feb 2019**
-  
-  * Surveyed and recommended the use third-party payment interface (Stripe).
-  * Built alternate Social Logins (SSO) options into the website.
-  * Presented a vulnerability audit and report.
+## 2020-Jan-13
+  Started my PhD at [UIC](http://uic.edu/) where [Chris Kanich](https://www.cs.uic.edu/~ckanich/) will be advising me.
+
+## 2019-Aug-24
+  Received an admit to the PhD program at [UIC](http://uic.edu/).
+
+## 2019-Aug-21 
+  Masters thesis is up on DalSpace! (Link: ( http://hdl.handle.net/10222/76278 ))
+
+## 2019-Aug-06
+  Successfully defended masters thesis. My readers were [Dr. Michael McAllister](https://web.cs.dal.ca/~mcallist/) and [Dr. Nur Zincir-Heywood](https://web.cs.dal.ca/~zincir/newNZH/Welcome.html).
+
+## 2019-Aug-01
+  Began work on an IDEaS project for the Department of National Defence (DND), Canada, through MyTech Lab.

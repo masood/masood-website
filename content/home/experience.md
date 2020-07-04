@@ -18,27 +18,57 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Assistant - Electronic Visualization Laboratory"
+  company = "UIC"
+  company_url = "https://www.evl.uic.edu"
+  location = "Chicago"
+  date_start = "2020-05-15"
+  date_end = "2020-08-16"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Summer 2020
+  """
+
+
+[[experience]]
+  title = "Teaching Assistant - Program Design II (CS 141)"
+  company = "UIC"
+  company_url = "https://www.uic.edu"
+  location = "Chicago"
+  date_start = "2020-01-01"
+  date_end = "2020-04-30"
+  description = """
+  Spring 2020
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Head Teaching Assistant - Software Engineering (CSCI 3130)"
+  company = "Dalhousie University"
+  company_url = "https://www.dal.ca"
+  location = "Halifax, Canada"
+  date_start = "2018-01-01"
+  date_end = "2019-08-31"
+  description = """
+  Winter 2018, Summer 2018, Winter 2019, Summer 2019
+  """
+[[experience]]
+  title = "Head Teaching Assistant - Network Security (CSCI 4174/6708)"
+  company = "Dalhousie University"
+  company_url = "https://www.dal.ca"
+  location = "Halifax, Canada"
+  date_start = "2019-01-01"
+  date_end = "2019-04-30"
+  description = """
+  Winter 2019
+  """
+[[experience]]
+  title = "Teaching Assistant - Data Structures and Algorithms (CSCI 2110)"
+  company = "Dalhousie University"
+  company_url = "https://www.dal.ca"
+  location = "Halifax, Canada"
+  date_start = "2018-09-01"
+  date_end = "2018-12-31"
+  description = """
+  Fall 2018
+  """
 
 +++
