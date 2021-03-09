@@ -74,6 +74,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+## Composable-Infrastructure-as-a-Service (COMPaaS)
+**NSF Grant**
+**May 2020 - Present**
+
+ * The Electronic Visualization Lab (EVL) at UIC offers bare metal and cluster services for data science and visualization projects. Researchers in the Computer Science department can benefit from high-performance GPUs and large storage options. 
+ * I migrated bare-metal systems to Canonical's Metal-as-a-Service (MaaS) for easy PXE-booting and configuration, and also set up a JupyterHub-based service for users to access containers directly from the project's website at [compaas.evl.uic.edu](https://compaas.evl.uic.edu).
+
 
 ## Department of National Defence, Canada
 **IDEaS**
