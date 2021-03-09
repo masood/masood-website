@@ -64,6 +64,6 @@ email: ""
 #- Visitors
 
 ---
-I am a PhD student associated with the Department of Computer Science at the University of Illinois at Chicago, where I'm advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/). I conduct research on security and privacy in internet based systems. I have a specific focus on the social aspects of usability and trust in online services.
+I am a PhD student with the Department of Computer Science at the University of Illinois at Chicago. I conduct research on security and privacy in internet based systems. I have a specific focus on authentication and recovery of online services.
 
-I completed my MSc in Computer Science from Dalhousie University in Aug 2019, where I was supervised by [Dr. Srinivas Sampalli](https://web.cs.dal.ca/~srini).
+My recent research has involved computational social science and algorithmic fairness. I have been exploring equity in government services and the characteristics of good-faith online discussions.
