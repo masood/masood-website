@@ -22,8 +22,8 @@ bio: I conduct research on security and privacy in Internet based systems.
 
 interests:
 - Security and Privacy
-- Usability and Trust
-- Information Security
+- Authentication and Recovery
+- Equity and Fairness
 
 education:
   courses:
