@@ -22,8 +22,8 @@ bio: I conduct research on security and privacy in Internet based systems.
 
 interests:
 - Security and Privacy
-- Authentication and Recovery
-- Equity and Fairness
+- Web Browsers and Applications
+- Ad Tracking and Retargeting
 
 education:
   courses:
@@ -64,6 +64,4 @@ email: ""
 #- Visitors
 
 ---
-I am a PhD student with the Department of Computer Science at the University of Illinois at Chicago. I conduct research on security and privacy in internet based systems. I have a specific focus on authentication and recovery of online services.
-
-My recent research has involved computational social science and algorithmic fairness. I have been exploring equity in government services and the characteristics of good-faith online discussions.
+I am a PhD student with the Department of Computer Science at the University of Illinois at Chicago. I focus on evaluating the security and privacy mechanisms of web browsers and web applications. My research has resulted in the discovery of severe practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms. Through my work I aim to assist developers and researchers in identifying the privacy implications of their deployments for end users, and help them develop robust countermeasures.
